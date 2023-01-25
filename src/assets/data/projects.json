@@ -1,0 +1,88 @@
+[
+    {
+        "title": "College Enrolments",
+        "description": "Created a React application that allows a user to view and manipulate data about a college.",
+        "languages": ["JavaScript", "HTML"],
+        "images": [
+            { 
+                "caption": "This is a screenshot of the site", 
+                "filename": "FEDCA2.png" 
+            }
+        ],
+        "tags": ["3rd Year", "Front-End Dev", "React"],
+        "date": "2022",
+        "github": "https://github.com/iadtmo/ca2-college-nathanmoore21?classId=7c6503b2-f89c-4b3e-82c2-3d3a80120c17&assignmentId=08437d47-c58d-4b21-a6d2-43e103850486&submissionId=52384ed3-ed7c-0ae3-4f0b-e0aebbdf7495",
+        "website": "https://collegeapinathanmoore.web.app/"
+    },
+    {
+        "title": "Countries API",
+        "description": "Created a React application that allows a user to view data about countries around the world.",
+        "languages": ["JavaScript", "HTML"],
+        "images": [
+            { 
+                "caption": "This is a screenshot of the site", 
+                "filename": "FEDCA1.png" 
+            }
+        ],
+        "tags": ["3rd Year", "Front-End Dev", "React"],
+        "date": "2022",
+        "github": "https://github.com/iadtmo/ca1-countries-nathanmoore21.git",
+        "website": "https://countriesapi-ca1.web.app/"
+    },
+    {
+        "title": "Music Store",
+        "description": "Developed an API using the Laravel framework. The API developed has many relationship types and requires authentication.",
+        "languages": ["PHP", "SQL"],
+        "images": [
+            { 
+                "caption": "This is a screenshot of the code", 
+                "filename": "BEDCA2.png" 
+            }
+        ],
+        "tags": ["3rd Year", "Back-End Dev", "Laravel"],
+        "date": "2022",
+        "github": "https://github.com/nathanmoore21/music-store.git"
+    },
+    {
+        "title": "Dublin Live",
+        "description": "Created a high-fidelity website for users to see what events are on in the Greater Dublin Area.",
+        "languages": ["2nd Year"],
+        "images": [
+            { 
+                "caption": "This is a screenshot of the site", 
+                "filename": "UXD.png" 
+            }
+        ],
+        "tags": ["User Experience (UX)", "Figma"],
+        "date": "2022",
+        "website": "https://www.figma.com/proto/78BluCnHhsyIXBUUq8p2S2/UXD?page-id=0%3A1&node-id=36%3A1087&viewport=115%2C73%2C0.03&scaling=scale-down&starting-point-node-id=36%3A1087&show-proto-sidebar=1"
+    },
+    {
+        "title": "Laravel Jobs",
+        "description": "Produced a software solution for a business case study. The web application carried CRUD functionality for a one-to-many relationship.",
+        "languages": ["PHP", "SQL"],
+        "images": [
+            { 
+                "caption": "This is a screenshot of the site", 
+                "filename": "jobs.png" 
+            }
+        ],
+        "tags": ["2nd Year", "Software Project", "Laravel"],
+        "date": "2022",
+        "github": "https://github.com/nathanmoore21/jobsCA.git"
+    },
+    {
+        "title": "Welcome to Kilmore Quay",
+        "description": "Created a short video of my hometown using Adobe Premiere.",
+        "languages": ["1st Year"],
+        "images": [
+            { 
+                "caption": "This is a screenshot of the video", 
+                "filename": "CDM.png" 
+            }
+        ],
+        "tags": ["Creative Digital Media", "Adobe"],
+        "date": "2022",
+        "website": "https://youtu.be/bXkJWPtT7bI"
+    }
+]
